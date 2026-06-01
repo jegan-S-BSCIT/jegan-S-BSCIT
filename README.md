@@ -7,7 +7,7 @@ B.Sc IT Student | AI & Web Developer | Erode, India
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final year B.Sc IT student at Erode
+- 🎓 As the  B.Sc IT student at Erode
 - 🔭 Currently working on **AI & Web Development** projects
 - 🌱 Learning **Machine Learning, React, Python**
 - 💼 Open to **internships and entry-level roles**
