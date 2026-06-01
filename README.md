@@ -27,14 +27,22 @@ B.Sc IT Student | AI & Web Developer | Erode, India
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jegan-S-BSCIT&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jegan-S-BSCIT&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jegan-S-BSCIT&theme=tokyonight)
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jegan-S-BSCIT&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jegan-S-BSCIT&layout=compact&theme=tokyonight)
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jegan-S-BSCIT&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jegan-S-BSCIT&theme=tokyonight&column=6)
+<p align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=jegan-S-BSCIT&theme=tokyonight&column=6" />
+</p>
