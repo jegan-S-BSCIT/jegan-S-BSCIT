@@ -42,5 +42,5 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jegan-S-BSCIT&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jegan-S-BSCIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
 </p>
