@@ -40,7 +40,24 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
+
+![Repos Badge](https://img.shields.io/badge/Public%20Repos-14-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/jegan-S-BSCIT?label=Followers&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/jegan-S-BSCIT?label=Total%20Stars&style=for-the-badge&logo=github)
+
+---
+
+### 💬 Let's Connect!
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jegan-S-BSCIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
+  <a href="https://www.linkedin.com/in/jeganbscit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jegansanthakumar25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jegan-S-BSCIT&label=Profile%20Views&color=0e75b6&style=flat" alt="jegan-S-BSCIT" />
 </p>
